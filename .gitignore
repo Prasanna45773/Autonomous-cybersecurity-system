@@ -1,9 +1,11 @@
-node_modules/
+backend/venv/
 .venv/
 venv/
 __pycache__/
 *.pyc
+node_modules/
 .env
-
+*.log
+datasets/CIC-IDS-2018/
+datasets/CICIDS2018/
 frontend/dashboard/.git-backup/
-frontend/dashboard/node_modules/
